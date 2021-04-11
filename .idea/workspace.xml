@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="580dee72-ec0e-45f1-9722-6a28790baef2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1phXpMe981hZ8JueKqcnHL5hmnZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.BaseTest.divideTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="BaseTest.divideTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.caculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.caculator" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.caculator.BaseTest" />
+      <option name="METHOD_NAME" value="divideTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixturesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.caculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.caculator" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.caculator.FixturesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixturesTest.divideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.caculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.caculator" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.caculator.FixturesTest" />
+      <option name="METHOD_NAME" value="divideTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftAssertionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.caculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.caculator" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.caculator.SoftAssertionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftAssertionTest.countTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.caculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.caculator" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.caculator.SoftAssertionTest" />
+      <option name="METHOD_NAME" value="countTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.BaseTest.divideTest" />
+        <item itemvalue="JUnit.FixturesTest.divideTest" />
+        <item itemvalue="JUnit.FixturesTest" />
+        <item itemvalue="JUnit.SoftAssertionTest" />
+        <item itemvalue="JUnit.SoftAssertionTest.countTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580dee72-ec0e-45f1-9722-6a28790baef2" name="Default Changelist" comment="" />
+      <created>1615636477088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615636477088</updated>
+      <workItem from="1615636478808" duration="4274000" />
+      <workItem from="1618039342110" duration="44000" />
+      <workItem from="1618039390033" duration="1000" />
+      <workItem from="1618039494605" duration="10883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="238" key="#Demo1Test" timestamp="1618040551440">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state x="407" y="238" key="#Demo1Test/0.23.1536.892@0.23.1536.892" timestamp="1618040551440" />
+    <state x="230" y="133" width="940" height="640" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1618147307616">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state x="230" y="133" width="940" height="640" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1536.892@0.23.1536.892" timestamp="1618147307616" />
+    <state x="393" y="104" key="#testSuiteDemo" timestamp="1618039372472">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state x="393" y="104" key="#testSuiteDemo/0.23.1536.892@0.23.1536.892" timestamp="1618039372472" />
+    <state width="1098" height="210" key="GridCell.Tab.0.bottom" timestamp="1618159089289">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="210" key="GridCell.Tab.0.bottom/0.23.1536.892@0.23.1536.892" timestamp="1618159089289" />
+    <state width="1098" height="210" key="GridCell.Tab.0.center" timestamp="1618159089288">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="210" key="GridCell.Tab.0.center/0.23.1536.892@0.23.1536.892" timestamp="1618159089288" />
+    <state width="1098" height="210" key="GridCell.Tab.0.left" timestamp="1618159089288">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="210" key="GridCell.Tab.0.left/0.23.1536.892@0.23.1536.892" timestamp="1618159089288" />
+    <state width="1098" height="210" key="GridCell.Tab.0.right" timestamp="1618159089289">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="210" key="GridCell.Tab.0.right/0.23.1536.892@0.23.1536.892" timestamp="1618159089289" />
+    <state width="1098" height="294" key="GridCell.Tab.1.bottom" timestamp="1618159043061">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="294" key="GridCell.Tab.1.bottom/0.23.1536.892@0.23.1536.892" timestamp="1618159043061" />
+    <state width="1098" height="294" key="GridCell.Tab.1.center" timestamp="1618159043060">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="294" key="GridCell.Tab.1.center/0.23.1536.892@0.23.1536.892" timestamp="1618159043060" />
+    <state width="1098" height="294" key="GridCell.Tab.1.left" timestamp="1618159043060">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="294" key="GridCell.Tab.1.left/0.23.1536.892@0.23.1536.892" timestamp="1618159043060" />
+    <state width="1098" height="294" key="GridCell.Tab.1.right" timestamp="1618159043061">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state width="1098" height="294" key="GridCell.Tab.1.right/0.23.1536.892@0.23.1536.892" timestamp="1618159043061" />
+    <state x="248" y="239" key="Maven.ArtifactSearchDialog" timestamp="1615636811176">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state x="248" y="239" key="Maven.ArtifactSearchDialog/0.23.1536.892@0.23.1536.892" timestamp="1615636811176" />
+    <state x="79" y="78" key="SettingsEditor" timestamp="1618146750930">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state x="79" y="78" key="SettingsEditor/0.23.1536.892@0.23.1536.892" timestamp="1618146750930" />
+    <state x="131" y="168" width="837" height="550" key="find.popup" timestamp="1618145732376">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state x="131" y="168" width="837" height="550" key="find.popup/0.23.1536.892@0.23.1536.892" timestamp="1618145732376" />
+    <state x="546" y="229" width="670" height="676" key="search.everywhere.popup" timestamp="1618156807925">
+      <screen x="0" y="23" width="1536" height="892" />
+    </state>
+    <state x="546" y="229" width="670" height="676" key="search.everywhere.popup/0.23.1536.892@0.23.1536.892" timestamp="1618156807925" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/suite/testSuiteDemo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/suite/testSuiteDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/suite/testSuiteDemo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
