@@ -22,20 +22,20 @@ public class Calculator {
 
     public static double divide(double x, double y) {
 //        DecimalFormat df = new DecimalFormat("0.0000");
-        double result =  x / y;
+        double result = x / y;
         return result;
     }
 
     public static int count(int x, int count) throws InterruptedException {
-        int i = result;
-        for(int j=1;j<=count;j++){
-            Thread.sleep(1000);
-            result = i + x;
+        int temp = result;
+        for (int j = 1; j <= count; j++) {
+            Thread.sleep(500);
+            temp = temp + x;
         }
-        return result;
+        return temp;
     }
 
-    public static void clear(){
+    public static void clear() {
         result = 0;
         System.out.println("当前结果已清零");
 

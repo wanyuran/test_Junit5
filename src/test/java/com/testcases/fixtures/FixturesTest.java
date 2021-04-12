@@ -1,4 +1,4 @@
-package com.testcases.caculator;
+package com.testcases.fixtures;
 
 import com.util.Calculator;
 import org.junit.jupiter.api.*;
@@ -50,7 +50,7 @@ public class FixturesTest {
     @Test
     public void divideTest(){
         DecimalFormat df = new DecimalFormat("0.00000");
-        double result = Calculator.divide(2,4);
+        double result = Calculator.divide(2.111,4.222);
         assertEquals(0.5, result);
     }
 
