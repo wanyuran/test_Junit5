@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580dee72-ec0e-45f1-9722-6a28790baef2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/junit-paltform.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testcases/fixtures/FixturesExtendTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testcases/fixtures/ParallelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testcases/fixtures/Parallel_1_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/util/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testcases/caculator/FixturesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcases/fixtures/FixturesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/junit-paltform.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testcases/fixtures/ParallelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcases/fixtures/ParallelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testcases/testcase1/Demo1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcases/testcase1/Demo1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testcases/testcase1/Demo2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcases/testcase1/Demo2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testcases/testcase2/Demo3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcases/testcase2/Demo3Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/util/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/util/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/caculator/FixturesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/junit-paltform.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/fixtures/ParallelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testcases/fixtures/ParallelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo1Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo2Test$BuyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo2Test$BuyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo2Test$PayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo2Test$PayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase1/Demo2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase2/Demo3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testcases/testcase2/Demo3Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,81 +69,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Parallel_1_Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="FixturesTest.divideTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test-jUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testcases.fixtures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testcases.fixtures" />
-      <option name="MAIN_CLASS_NAME" value="com.testcases.fixtures.FixturesTest" />
-      <option name="METHOD_NAME" value="divideTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseTest.countTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test-jUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testcases.fixtures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testcases.caculator" />
-      <option name="MAIN_CLASS_NAME" value="com.testcases.caculator.BaseTest" />
-      <option name="METHOD_NAME" value="countTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FixturesExtendTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test-jUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testcases.fixtures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testcases.fixtures" />
-      <option name="MAIN_CLASS_NAME" value="com.testcases.fixtures.FixturesExtendTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FixturesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test-jUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testcases.fixtures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testcases.fixtures" />
-      <option name="MAIN_CLASS_NAME" value="com.testcases.fixtures.FixturesTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,8 +98,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParallelTest.countSyncTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.fixtures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.fixtures" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.fixtures.ParallelTest" />
+      <option name="METHOD_NAME" value="countSyncTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parallel_1_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.fixtures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.fixtures" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.fixtures.Parallel_1_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.testcases.caculator in test-jUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.caculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.caculator" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.testcases.testcase1 in test-jUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-jUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.testcase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testcases.testcase1" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -183,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Parallel_1_Test" />
+        <item itemvalue="JUnit.com.testcases.testcase1 in test-jUnit" />
+        <item itemvalue="JUnit.com.testcases.caculator in test-jUnit" />
+        <item itemvalue="JUnit.ParallelTest.countSyncTest" />
         <item itemvalue="JUnit.ParallelTest" />
-        <item itemvalue="JUnit.FixturesExtendTest" />
-        <item itemvalue="JUnit.FixturesTest" />
-        <item itemvalue="JUnit.BaseTest.countTest" />
-        <item itemvalue="Android JUnit.FixturesTest.divideTest" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +209,8 @@
       <workItem from="1615636478808" duration="4274000" />
       <workItem from="1618039342110" duration="44000" />
       <workItem from="1618039390033" duration="1000" />
-      <workItem from="1618039494605" duration="13337000" />
+      <workItem from="1618039494605" duration="13887000" />
+      <workItem from="1618243405480" duration="8383000" />
     </task>
     <servers />
   </component>
@@ -224,38 +230,42 @@
       <screen x="0" y="23" width="1536" height="892" />
     </state>
     <state x="393" y="104" key="#testSuiteDemo/0.23.1536.892@0.23.1536.892" timestamp="1618039372472" />
-    <state width="1098" height="364" key="GridCell.Tab.0.bottom" timestamp="1618188767092">
+    <state width="1357" height="365" key="GridCell.Tab.0.bottom" timestamp="1618638668220">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="1357" height="365" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1792.1052@0.23.1792.1052" timestamp="1618638668220" />
+    <state width="1357" height="425" key="GridCell.Tab.0.bottom/0.23.1536.892@0.23.1536.892" timestamp="1618275257929" />
+    <state width="1357" height="365" key="GridCell.Tab.0.center" timestamp="1618638668219">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="1357" height="365" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1792.1052@0.23.1792.1052" timestamp="1618638668219" />
+    <state width="1357" height="425" key="GridCell.Tab.0.center/0.23.1536.892@0.23.1536.892" timestamp="1618275257928" />
+    <state width="1357" height="365" key="GridCell.Tab.0.left" timestamp="1618638668219">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="1357" height="365" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1792.1052@0.23.1792.1052" timestamp="1618638668219" />
+    <state width="1357" height="425" key="GridCell.Tab.0.left/0.23.1536.892@0.23.1536.892" timestamp="1618275257928" />
+    <state width="1357" height="365" key="GridCell.Tab.0.right" timestamp="1618638668220">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="1357" height="365" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1792.1052@0.23.1792.1052" timestamp="1618638668220" />
+    <state width="1357" height="425" key="GridCell.Tab.0.right/0.23.1536.892@0.23.1536.892" timestamp="1618275257929" />
+    <state width="1098" height="294" key="GridCell.Tab.1.bottom" timestamp="1618190798220">
       <screen x="0" y="23" width="1536" height="892" />
     </state>
-    <state width="1098" height="364" key="GridCell.Tab.0.bottom/0.23.1536.892@0.23.1536.892" timestamp="1618188767092" />
-    <state width="1098" height="364" key="GridCell.Tab.0.center" timestamp="1618188767091">
+    <state width="1098" height="294" key="GridCell.Tab.1.bottom/0.23.1536.892@0.23.1536.892" timestamp="1618190798220" />
+    <state width="1098" height="294" key="GridCell.Tab.1.center" timestamp="1618190798220">
       <screen x="0" y="23" width="1536" height="892" />
     </state>
-    <state width="1098" height="364" key="GridCell.Tab.0.center/0.23.1536.892@0.23.1536.892" timestamp="1618188767091" />
-    <state width="1098" height="364" key="GridCell.Tab.0.left" timestamp="1618188767091">
+    <state width="1098" height="294" key="GridCell.Tab.1.center/0.23.1536.892@0.23.1536.892" timestamp="1618190798220" />
+    <state width="1098" height="294" key="GridCell.Tab.1.left" timestamp="1618190798220">
       <screen x="0" y="23" width="1536" height="892" />
     </state>
-    <state width="1098" height="364" key="GridCell.Tab.0.left/0.23.1536.892@0.23.1536.892" timestamp="1618188767091" />
-    <state width="1098" height="364" key="GridCell.Tab.0.right" timestamp="1618188767092">
+    <state width="1098" height="294" key="GridCell.Tab.1.left/0.23.1536.892@0.23.1536.892" timestamp="1618190798220" />
+    <state width="1098" height="294" key="GridCell.Tab.1.right" timestamp="1618190798220">
       <screen x="0" y="23" width="1536" height="892" />
     </state>
-    <state width="1098" height="364" key="GridCell.Tab.0.right/0.23.1536.892@0.23.1536.892" timestamp="1618188767092" />
-    <state width="1098" height="294" key="GridCell.Tab.1.bottom" timestamp="1618159920769">
-      <screen x="0" y="23" width="1536" height="892" />
-    </state>
-    <state width="1098" height="294" key="GridCell.Tab.1.bottom/0.23.1536.892@0.23.1536.892" timestamp="1618159920769" />
-    <state width="1098" height="294" key="GridCell.Tab.1.center" timestamp="1618159920768">
-      <screen x="0" y="23" width="1536" height="892" />
-    </state>
-    <state width="1098" height="294" key="GridCell.Tab.1.center/0.23.1536.892@0.23.1536.892" timestamp="1618159920768" />
-    <state width="1098" height="294" key="GridCell.Tab.1.left" timestamp="1618159920768">
-      <screen x="0" y="23" width="1536" height="892" />
-    </state>
-    <state width="1098" height="294" key="GridCell.Tab.1.left/0.23.1536.892@0.23.1536.892" timestamp="1618159920768" />
-    <state width="1098" height="294" key="GridCell.Tab.1.right" timestamp="1618159920768">
-      <screen x="0" y="23" width="1536" height="892" />
-    </state>
-    <state width="1098" height="294" key="GridCell.Tab.1.right/0.23.1536.892@0.23.1536.892" timestamp="1618159920768" />
+    <state width="1098" height="294" key="GridCell.Tab.1.right/0.23.1536.892@0.23.1536.892" timestamp="1618190798220" />
     <state x="248" y="239" key="Maven.ArtifactSearchDialog" timestamp="1615636811176">
       <screen x="0" y="23" width="1536" height="892" />
     </state>
@@ -268,9 +278,10 @@
       <screen x="0" y="23" width="1536" height="892" />
     </state>
     <state x="131" y="168" width="837" height="550" key="find.popup/0.23.1536.892@0.23.1536.892" timestamp="1618159909363" />
-    <state x="546" y="229" width="670" height="676" key="search.everywhere.popup" timestamp="1618156807925">
-      <screen x="0" y="23" width="1536" height="892" />
+    <state x="637" y="266" width="782" height="798" key="search.everywhere.popup" timestamp="1618481037999">
+      <screen x="0" y="23" width="1792" height="1052" />
     </state>
+    <state x="637" y="266" width="782" height="798" key="search.everywhere.popup/-1920.23.1920.1177/0.23.1792.1052@0.23.1792.1052" timestamp="1618481037999" />
     <state x="546" y="229" width="670" height="676" key="search.everywhere.popup/0.23.1536.892@0.23.1536.892" timestamp="1618156807925" />
   </component>
   <component name="XDebuggerManager">
@@ -290,6 +301,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/suite/testSuiteDemo.java</url>
           <line>9</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/util/Calculator.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

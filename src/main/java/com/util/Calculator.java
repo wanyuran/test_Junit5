@@ -6,11 +6,21 @@ public class Calculator {
     public static int result = 0;
 
     public static int add(int x, int y) {
+        try {
+            Thread.sleep(500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         result = x + y;
         return result;
     }
 
     public static int subtract(int x, int y) {
+        try {
+            Thread.sleep(500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         result = x - y;
         return result;
     }
@@ -34,6 +44,28 @@ public class Calculator {
         }
         return temp;
     }
+
+    public static int count(int x) {
+        int i = result;
+        try {
+            Thread.sleep(500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        result = i + x;
+        return result;
+    }
+    public synchronized static int countSync(int x) {
+        int i = result;
+        try {
+            Thread.sleep(500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        result = i + x;
+        return result;
+    }
+
 
     public static void clear() {
         result = 0;

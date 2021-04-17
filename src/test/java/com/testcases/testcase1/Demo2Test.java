@@ -1,6 +1,7 @@
 package com.testcases.testcase1;
 
 import org.junit.jupiter.api.Nested;
+import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
@@ -8,8 +9,10 @@ import java.util.HashMap;
 public class Demo2Test {
     private static HashMap<String, Object> dataMap = new HashMap<String, Object>();
 
+    @RepeatedTest(10)
     @Test
-    public void LoginTest() {
+    public void LoginTest() throws InterruptedException {
+        Thread.sleep(500);
         dataMap.put("login", "登录成功");
         System.out.println(dataMap.get("login"));
     }
